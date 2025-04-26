@@ -96,7 +96,7 @@ Le système réussit ainsi à combiner pertinence et qualité des recommandation
 - Créer une application web légère (ex : avec Streamlit) pour permettre une utilisation intuitive du système.
 - Intégrer des méthodes de filtrage collaboratif basées sur des données utilisateurs réelles.
 - Enrichir les similarités à l’aide du traitement de texte sur les résumés ou mots-clés (NLP).
-- Optimiser le clustering en utilisant plus de colonne (difficile à visualiser sur un schéma) .
+- Optimiser le clustering en utilisant plus de colonnes (difficile à visualiser sur un schéma) .
 
 ---
 
