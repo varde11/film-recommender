@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Dans un marché du divertissement saturé, offrir des recommandations de films personnalisées est devenu un enjeu majeur pour retenir les utilisateurs et stimuler l'engagement. Les plateformes de streaming investissent massivement dans ces algorithmes, qui sont devenus des leviers essentiels de fidélisation. Par exemple, dès 2016, Netflix estimait que son moteur de recommandation lui faisait économiser plus d'un milliard de dollars par an en réduisant le taux de désabonnement ([source]).  
+Dans un marché du divertissement saturé, offrir des recommandations de films personnalisées est devenu un enjeu majeur pour retenir les utilisateurs et stimuler l'engagement. Les plateformes de streaming investissent massivement dans ces algorithmes, qui sont devenus des leviers essentiels de fidélisation. Par exemple, dès 2016, Netflix estimait que son moteur de recommandation lui faisait économiser plus d'un milliard de dollars par an en réduisant le taux de désabonnement.  
 Face à cet enjeu, l’objectif de ce projet est de construire un système de recommandation simple, efficace et mesurable, capable de suggérer des films similaires à partir d’un film donné, tout en tenant compte de la popularité et de la qualité des films.
 
 ---
@@ -26,7 +26,7 @@ Face à cet enjeu, l’objectif de ce projet est de construire un système de re
 ## 4. Dataset utilisé
 
 - **Source** : The Movies Dataset (Kaggle)
-- **Taille** : 45 000 lignes et 23 colonnes (au début du projet)
+- **Taille** : 45 466 lignes et 23 colonnes (au début du projet) ; 45 451 lignes et 83 colonnes (à la fin du porjet).
 - **Caractéristiques principales** :
   - Métadonnées de films : titres, dates de sortie, genres, popularité, votes, etc.
   - Présence de valeurs manquantes et de colonnes complexes (JSON encodé en string).
